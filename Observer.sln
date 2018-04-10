@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{DC28A580-7132-46DB-9707-50FAB25D32FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverTests", "ObserverTests\ObserverTests.csproj", "{9DD1CEFC-D2C1-4A29-9DB3-8755C6D99308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC28A580-7132-46DB-9707-50FAB25D32FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC28A580-7132-46DB-9707-50FAB25D32FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC28A580-7132-46DB-9707-50FAB25D32FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD1CEFC-D2C1-4A29-9DB3-8755C6D99308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD1CEFC-D2C1-4A29-9DB3-8755C6D99308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD1CEFC-D2C1-4A29-9DB3-8755C6D99308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD1CEFC-D2C1-4A29-9DB3-8755C6D99308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

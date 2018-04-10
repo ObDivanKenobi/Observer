@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Observer
 {
-    public class Class1
+    public interface IObserver
     {
+        void Update();
+
+        void Update(string message);
     }
 }
